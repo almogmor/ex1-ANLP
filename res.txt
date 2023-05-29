@@ -1,6 +1,6 @@
-bert-base-uncased,0.9 +- 0.0
-roberta-base,0.5 +- 0.0
-google/electra-base-generator,0.5 +- 0.0
+bert-base-uncased,0.9094036697247706 +- 0.0028605943323959824
+roberta-base,0.9082568807339451 +- 0.010634883595751977
+google/electra-base-generator,0.8631498470948012 +- 0.015395283307035388
 ----
-train_time,1.8821101188659668
-prediction_time,27.835992097854614
+train_time,18010.8515708732605
+prediction_time,25.34598684310913
